@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataVault</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_token">API Token (stored encrypted)</string>
+    <string name="btn_save_prefs">Save Preferences</string>
+    <string name="btn_load_prefs">Load Preferences</string>
+    <string name="btn_save_notes">Save Notes (JSON)</string>
+    <string name="btn_load_notes">Load Notes (JSON)</string>
+    <string name="btn_export">Export to External Storage</string>
+    <string name="btn_clear">Clear Everything</string>
+    <string name="label_dark_mode">Dark Mode</string>
+</resources>
